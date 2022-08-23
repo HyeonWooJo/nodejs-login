@@ -20,25 +20,3 @@ app.use('/', home); // use -> middleware를 등록해주는 메서드
 
 
 module.exports = app;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
