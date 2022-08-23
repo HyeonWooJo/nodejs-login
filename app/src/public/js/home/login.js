@@ -29,6 +29,6 @@ function login(){
     })
     .catch((err) => {
         console.error(('로그인 중 에러 발생'));
-    })
+    });
     // .then(console.log); 로도 사용가능
 };
