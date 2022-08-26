@@ -4,10 +4,10 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const dotenv = require("dotenv");
-// const morgan = require("morgan");
+dotenv.config();
 
 const app = express();
-dotenv.config();
+
 
 // const accessLogStream = require('./src/config/log');
 
